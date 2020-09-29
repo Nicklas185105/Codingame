@@ -12,13 +12,14 @@ In this reposority you will find my working solutions for puzzles on the platfor
 ## Completed Puzzles
 |           Puzzle           |                   State                   | Languages |
 |----------------------------|-------------------------------------------|-----------|
-| CLASSIC PUZZLE - EASY      | ![Progress](https://progress-bar.dev/7)   |     C#    |
+| CLASSIC PUZZLE - EASY      | ![Progress](https://progress-bar.dev/7)   |     C#    
 |
-| CLASSIC PUZZLE - MEDIUM    | ![Progress](https://progress-bar.dev/0)   |     C#    |
+| CLASSIC PUZZLE - MEDIUM    | ![Progress](https://progress-bar.dev/0)   |     C#    
 |
-| CLASSIC PUZZLE - HARD      | ![Progress](https://progress-bar.dev/0)   |     C#    |
+| CLASSIC PUZZLE - HARD      | ![Progress](https://progress-bar.dev/0)   |     C#    
 |
 | CLASSIC PUZZLE - VERY HARD | ![Progress](https://progress-bar.dev/0)   |     C#    |
+
 
 ## Disclaimer
 I created all the solutions found here for myself. There may be similarities with solutions of others. These similarities are then random and not intended.
