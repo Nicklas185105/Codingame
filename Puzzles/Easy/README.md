@@ -9,15 +9,10 @@ In this reposority you will find my working solutions for puzzles on the platfor
 | No. |                           Puzzle Name                                                        |             State            | Difficulty | Languages |
 |-----|----------------------------------------------------------------------------------------------|------------------------------|------------|-----------|
 | 1   | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                               | :heavy_check_mark: Completed |    Easy    |     C#    |
-|
 | 2   | [Temperatures](https://www.codingame.com/training/easy/temperatures)                         | :heavy_check_mark: Completed |    Easy    |     C#    |
-|
 | 3   | [Onboarding](https://www.codingame.com/training/easy/onboarding)                             | :heavy_check_mark: Completed |    Easy    |     C#    |
-|
 | 4   | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)                         | :heavy_check_mark: Completed |    Easy    |     C#    |
-|
 | 5   | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1) | :heavy_check_mark: Completed |    Easy    |     C#    |
-|
 | 6   | [The Descent](https://www.codingame.com/training/easy/the-descent)                           | :heavy_check_mark: Completed |    Easy    |     C#    |
 
 ## Disclaimer
