@@ -17,7 +17,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 | 7   | [Mars Lander   - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)   | :heavy_check_mark: Completed |    Easy    | C#, Java  |
 | 8   | [MIME Type](https://www.codingame.com/training/easy/mime-type)                               | :heavy_check_mark: Completed |    Easy    | C#        |
 | 9   | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                     | :heavy_check_mark: Completed |    Easy    | C#        |
-| 10  | [Horse-racing Duals]()   | :x: Not Completed            |    Easy    |           |
+| 10  | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)             | :heavy_check_mark: Completed |    Easy    | C#        |
 | 11  | [1D Spreadsheet]()   | :x: Not Completed            |    Easy    |           |
 | 12  | [Prefix Code]()   | :x: Not Completed            |    Easy    |           |
 | 13  | [Ghost Legs]()   | :x: Not Completed            |    Easy    |           |
