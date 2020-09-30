@@ -15,6 +15,53 @@ using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 
+#region After Optimization
+class Solution
+{
+    static Cell[] cells;
+    class Cell {
+        public int?     v;
+        public char     op;
+        public string   arg1, arg2;
+
+        public int value { 
+            get {
+                if (v == null) {
+                    v = ParseArg(arg1);
+                    switch (op) {
+                        case 'A': v += ParseArg(arg2); break;
+                        case 'S': v -= ParseArg(arg2); break;
+                        case 'M': v *= ParseArg(arg2); break;
+                    }
+                }
+                return (int)v;
+            }
+        }
+
+        static int ParseArg (string arg)
+        {
+            if (arg[0] == '$')
+                return cells[int.Parse (arg.Substring(1))].value;
+            return int.Parse (arg);
+        }
+    }
+
+    static void Main(string[] args)
+    {
+        int N = int.Parse(Console.ReadLine());
+        cells = new Cell[N];
+        for (int i = 0; i < N; i++)
+        {
+            string[] inputs = Console.ReadLine().Split(' ');
+            cells[i] = new Cell() {op = inputs[0][0], arg1 = inputs[1], arg2 = inputs[2]};
+        }
+        for (int i = 0; i < N; i++)
+            Console.WriteLine(cells[i].value);
+    }
+}
+#endregion
+
+#region Before Optimization
 /**
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
@@ -389,3 +436,4 @@ class Solution
         }
     }
 }
+#endregion
