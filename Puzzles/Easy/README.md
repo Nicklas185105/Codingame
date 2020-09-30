@@ -18,7 +18,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 | 8   | [MIME Type](https://www.codingame.com/training/easy/mime-type)                               | :heavy_check_mark: Completed |    Easy    | C#        |
 | 9   | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                     | :heavy_check_mark: Completed |    Easy    | C#        |
 | 10  | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)             | :heavy_check_mark: Completed |    Easy    | C#        |
-| 11  | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)                     | :x: Work In Progress         |    Easy    | C#        |
+| 11  | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)                     | :heavy_check_mark: Completed |    Easy    | C#        |
 | 12  | [Prefix Code]()   | :x: Not Completed            |    Easy    |           |
 | 13  | [Ghost Legs]()   | :x: Not Completed            |    Easy    |           |
 | 14  | [Rock Paper Scissors Lizard Spock]()   | :x: Not Completed            |    Easy    |           |
