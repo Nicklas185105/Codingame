@@ -20,7 +20,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 | 10  | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)             | :heavy_check_mark: Completed | 30.09.2020 | C#        |
 | 11  | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)                     | :heavy_check_mark: Completed | 30.09.2020 | C#        |
 | 12  | [Prefix Code]()   | :x: Not Completed            |            |           |
-| 13  | [Ghost Legs]()   | :x: Not Completed            |            |           |
+| 13  | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                             | :heavy_check_mark: Completed | 06.10.2020 | C#        |
 | 14  | [Rock Paper Scissors Lizard Spock]()   | :x: Not Completed            |            |           |
 | 15  | [Dungeons and Maps]()   | :x: Not Completed            |            |           |
 | 16  | [Rectangle Partition]()   | :x: Not Completed            |            |           |
