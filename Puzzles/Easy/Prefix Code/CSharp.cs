@@ -1,3 +1,13 @@
+/********************************************/
+/*                                          */
+/* CodinGame.com Solutions by Nicklas185105 */
+/*                                          */
+/* Puzzle: Prefix Code                      */
+/* Difficulty: Easy                         */
+/* Date solved: 29.11.2020                  */
+/*                                          */
+/********************************************/
+
 using System;
 using System.Linq;
 using System.IO;

@@ -1,3 +1,13 @@
+/********************************************/
+/*                                          */
+/* CodinGame.com Solutions by Nicklas185105 */
+/*                                          */
+/* Puzzle: Rock Paper Scissors Lizard Spock */
+/* Difficulty: Easy                         */
+/* Date solved: 30.11.2020                  */
+/*                                          */
+/********************************************/
+
 using System;
 using System.Linq;
 using System.IO;
