@@ -23,7 +23,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 | 13  | [Prefix Code](https://www.codingame.com/training/easy/prefix-code)                                                        | :heavy_check_mark: Completed | 29.11.2020 | C#        |
 | 14  | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)              | :heavy_check_mark: Completed | 30.11.2020 | C#        |
 | 15  | [Create the longest sequence of 1s](https://www.codingame.com/training/easy/create-the-longest-sequence-of-1s)            | :heavy_check_mark: Completed | 21.02.2021 | C#        |
-| 16  | [Equivalent resistance, circuit building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building) | :x: Not Completed            |            |           |
+| 16  | [Equivalent resistance, circuit building](https://www.codingame.com/training/easy/equivalent-resistance-circuit-building) | :heavy_check_mark: Completed | 23.02.2021 | C#, Java  |
 | 17  | [Dungeons and Maps](https://www.codingame.com/training/easy/dungeons-and-maps)                                            | :x: Not Completed            |            |           |
 | 18  | [Rectangle Partition]()   | :x: Not Completed            |            |           |
 | 19  | [Encryption/Decryption of Enigma Machine]()   | :x: Not Completed            |            |           |
