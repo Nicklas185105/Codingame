@@ -3,7 +3,7 @@
 ## Completed Puzzles
 | No. |                                                        Puzzle Name                                                        |             State            |    Date    | Languages |
 |-----|---------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-----------|
-| 1   | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 1   | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :check_mark: Completed | 29.09.2020 | C#        |
 | 2   | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
 | 3   | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                          | :heavy_check_mark: Completed | 29.09.2020 | C#        |
 | 4   | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
