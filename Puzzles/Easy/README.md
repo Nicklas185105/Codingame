@@ -3,15 +3,15 @@
 ## Completed Puzzles
 | No. |                                                        Puzzle Name                                                        |             State            |    Date    | Languages |
 |-----|---------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-----------|
-| 1   | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
-| 2   | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
-| 3   | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                          | :heavy_check_mark: Completed | 29.09.2020 | C#        |
-| 4   | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
-| 5   | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                              | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
-| 6   | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                        | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
-| 7   | [Mars Lander   - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)                                | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
-| 8   | [MIME Type](https://www.codingame.com/training/easy/mime-type)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
-| 9   | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                  | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 01  | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 02  | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 03  | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                          | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 04  | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 05  | [Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)                              | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
+| 06  | [The Descent](https://www.codingame.com/training/easy/the-descent)                                                        | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
+| 07  | [Mars Lander   - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)                                | :heavy_check_mark: Completed | 29.09.2020 | C#, Java  |
+| 08  | [MIME Type](https://www.codingame.com/training/easy/mime-type)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| 09  | [Defibrillators](https://www.codingame.com/training/easy/defibrillators)                                                  | :heavy_check_mark: Completed | 29.09.2020 | C#        |
 | 10  | [Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)                                          | :heavy_check_mark: Completed | 30.09.2020 | C#        |
 | 11  | [1D Spreadsheet](https://www.codingame.com/training/easy/1d-spreadsheet)                                                  | :heavy_check_mark: Completed | 30.09.2020 | C#        |
 | 12  | [Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)                                                          | :heavy_check_mark: Completed | 06.10.2020 | C#        |
