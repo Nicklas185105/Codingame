@@ -1,4 +1,4 @@
-# CLASSIC PUZZLE - MEDIUM
+# CLASSIC PUZZLE - HARD
 
 ## Completed Puzzles
 | No. |                                             Puzzle Name                                                        |             State            |    Date    | Languages |
