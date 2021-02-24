@@ -3,5 +3,5 @@
 ## Completed Puzzles
 | No. |                                             Puzzle Name                                                        |             State            |    Date    | Languages |
 |-----|----------------------------------------------------------------------------------------------------------------|------------------------------|------------|-----------|
-| 1   |                                                                                                                | :x: Not Completed            |            |           |
-| 2   |                                                                                                                | :x: Not Completed            |            |           |
+| 01  | [The Last Crusade - Episode 1](https://www.codingame.com/ide/puzzle/the-last-crusade-episode-1)                | :heavy_check_mark: Completed | 24.02.2021 | C#        |
+| 02  |                                                                                                                | :x: Not Completed            |            |           |
