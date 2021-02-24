@@ -13,7 +13,7 @@ In this reposority you will find my working solutions for puzzles on the platfor
 |                                                Puzzles                                                 |                   State                   | Languages |
 |--------------------------------------------------------------------------------------------------------|-------------------------------------------|-----------|
 | [CLASSIC PUZZLE - EASY](https://github.com/Nicklas185105/Codingame/tree/main/Puzzles/Easy)             | ![Progress](https://progress-bar.dev/17)  | C#, Java  |
-| [CLASSIC PUZZLE - MEDIUM](https://github.com/Nicklas185105/Codingame/tree/main/Puzzles/Medium)         | ![Progress](https://progress-bar.dev/0)   | C#        |
+| [CLASSIC PUZZLE - MEDIUM](https://github.com/Nicklas185105/Codingame/tree/main/Puzzles/Medium)         | ![Progress](https://progress-bar.dev/1)   | C#        |
 | [CLASSIC PUZZLE - HARD](https://github.com/Nicklas185105/Codingame/tree/main/Puzzles/Hard)             | ![Progress](https://progress-bar.dev/0)   | C#        |
 | [CLASSIC PUZZLE - VERY HARD](https://github.com/Nicklas185105/Codingame/tree/main/Puzzles/Very%20Hard) | ![Progress](https://progress-bar.dev/0)   | C#        |
 
