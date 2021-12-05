@@ -2,9 +2,9 @@
 
 ## Completed Puzzles
 
-| No. |                                                        Puzzle Name                                                        |             State            |    Date    | Languages |
-|-----|---------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-----------|
-| 01  | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#        |
+| No. | Puzzle Name                                                                                                               | State                        | Date       | Languages |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------- | --------- |
+| 01  | [ASCII Art](https://www.codingame.com/training/easy/ascii-art)                                                            | :heavy_check_mark: Completed | 29.09.2020 | C#, GO    |
 | 02  | [Temperatures](https://www.codingame.com/training/easy/temperatures)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#, Go    |
 | 03  | [Onboarding](https://www.codingame.com/training/easy/onboarding)                                                          | :heavy_check_mark: Completed | 29.09.2020 | C#        |
 | 04  | [Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)                                                      | :heavy_check_mark: Completed | 29.09.2020 | C#        |
