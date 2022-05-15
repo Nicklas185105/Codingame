@@ -1,3 +1,5 @@
+package main
+
 /********************************************/
 /*                                          */
 /* CodinGame.com Solutions by Nicklas185105 */
@@ -8,19 +10,12 @@
 /*                                          */
 /********************************************/
 
-package main
-
 import (
 	"bufio"
 	"fmt"
 	"os"
 	"strings"
 )
-
-/**
- * Auto-generated code below aims at helping you parse
- * the standard input according to the problem statement.
- **/
 
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)

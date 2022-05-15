@@ -1,5 +1,15 @@
 package main
 
+/********************************************/
+/*                                          */
+/* CodinGame.com Solutions by Nicklas185105 */
+/*                                          */
+/* Puzzle: Temperatures                     */
+/* Difficulty: Easy                         */
+/* Date solved: 14.05.2021                  */
+/*                                          */
+/********************************************/
+
 import (
 	"bufio"
 	"fmt"
